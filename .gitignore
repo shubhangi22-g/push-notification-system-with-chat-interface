@@ -1,3 +1,33 @@
+# Environment variables and configuration
+.env
+.env.local
+.env.development
+.env.production
+config.json
+secrets.json
+
+# API keys and credentials
+**/credentials.*
+**/apikeys.*
+
+# Log files
+*.log
+logs/
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# IDE specific
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Build and distribution
+/build/
+/dist/
 push_notification_chat_backend/firebase-adminsdk.json
 push_notification_chat_backend/firebase-adminsdk.json
 push_notification_chat_backend/firebase-adminsdk.json
