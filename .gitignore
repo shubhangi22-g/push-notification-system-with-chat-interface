@@ -38,3 +38,10 @@ push_notification_chat_backend/firebase-adminsdk.json
 push_notification_chat_backend/firebase-adminsdk.json
 push_notification_chat_backend/firebase-adminsdk.json
 push_notification_chat_backend/firebase-adminsdk.json
+
+# Android specific
+*.lock
+.gradle/
+*.ser
+android/build/
+android/.gradle/
