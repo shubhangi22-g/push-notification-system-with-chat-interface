@@ -1,0 +1,14 @@
+{
+  "name": "push_notification_chat_backend",
+  "version": "1.0.0",
+  "description": "Node.js backend for push notification chat system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "firebase-admin": "^11.5.0",
+    "socket.io": "^4.7.2"
+  }
+}

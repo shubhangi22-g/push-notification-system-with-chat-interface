@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # push-notification-system-with-chat-interface
+=======
+# Push Notification Chat Application
+
+>>>>>>> 8de2020 (add files)
 A real-time chat application with push notification support, built with Flutter (frontend) and Node.js (backend).
 
 ## Project Structure
@@ -65,6 +70,7 @@ A real-time chat application with push notification support, built with Flutter 
 - Cross-platform support (Web, Android, iOS)
 
 ## Dependencies
+<<<<<<< HEAD
 flutter:
     sdk: flutter
   flutter_bloc: ^8.1.3          # For state management (BLoC Pattern)
@@ -72,6 +78,8 @@ flutter:
   socket_io_client: ^2.0.3+1     # For WebSocket communication with Node.js server
   hive: ^2.2.3                   # For local storage
   hive_flutter: ^1.1.0           # Hive adapter for Flutter integration
+=======
+>>>>>>> 8de2020 (add files)
 
 ### Frontend
 - flutter_bloc: State management
@@ -91,4 +99,8 @@ flutter:
 2. Create your feature branch
 3. Commit your changes
 4. Push to the branch
+<<<<<<< HEAD
 5. Create a new Pull Request
+=======
+5. Create a new Pull Request
+>>>>>>> 8de2020 (add files)
