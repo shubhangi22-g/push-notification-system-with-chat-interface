@@ -28,6 +28,11 @@ __pycache__/
 # Build and distribution
 /build/
 /dist/
+# Google Cloud credentials
+**/google-services.json
+**/service-account*.json
+**/firebase-adminsdk*.json
+credentials.json
 push_notification_chat_backend/firebase-adminsdk.json
 push_notification_chat_backend/firebase-adminsdk.json
 push_notification_chat_backend/firebase-adminsdk.json
